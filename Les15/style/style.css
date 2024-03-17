@@ -1,0 +1,103 @@
+header{
+    color: brown;
+    background-color: cadetblue;
+    padding-top: 5px;
+}
+
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navigatie{
+    background-color: bisque;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer{
+    background-color: bisque;
+}
+
+.foto{
+    float: right;
+    position: relative;
+    width: 100px;
+}
+
+.bt_mijncv, .bt_contact, .bt_index{
+    color: black;
+    background-color: salmon;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px darkgray;
+}
+
+.bt_mijncv:hover{
+    color: yellow;
+    background-color: green;
+    margin: 10x;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.bt_contact:hover{
+    color: yellow;
+    background-color: green;
+    margin: 10x;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.bt_index:hover{
+    color: yellow;
+    background-color: green;
+    margin: 10x;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+table, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.td_head{
+    background-color: rgb(124, 144, 255);
+}
+
+button:active {
+    background-color: #4CAF50;
+    border-radius: 8px;
+    box-shadow: inset 4px 4px 6px yellowgreen;
+  }
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.td_col1{
+    background-color: rgb(196, 212, 255);
+}
+
+.td_col2{
+    background-color: rgb(157, 182, 252);
+}
+
+.td_col3{
+    background-color: rgb(107, 146, 252);
+}
+
+.td_laatste{
+    height: 40px;
+    text-align: center;
+}
+
+.my_input{
+    min-width: 230px;
+}
+.my_input2{
+    min-width: 232px;
+}
